@@ -21,7 +21,3 @@ void reverse_array(int *a, int n)
 		i++;
 	}
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
